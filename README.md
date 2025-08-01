@@ -37,4 +37,4 @@ The aim of this project was to create a **secure password generator** that can g
 1. Install Python 3.9 or later.
 2. Run the script in terminal:
    ```bash
-   python password_generator.py
+   python pass.py
